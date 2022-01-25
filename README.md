@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**KuryloDev/KuryloDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌌 About Me
 
-Here are some ideas to get you started:
+Greetings, my name is Kurylo!
+- Founder of 2Form Networks
+- Full-Stack Software Engineer
+- Musician, Cosplayer & Investor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+```csharp
+    public class Character {
+        string Name = "KuryloKuro";
+        string FavouriteFood = "Mapo Tofu";
+        CharacterType Class = CharacterType.Angel; 
+
+        List<Language> Languages = new(){
+            Vietnamese, English, German, Dutch, Japanese
+        };
+    }
+```
+
+## 🍋 Current Projects
+
+Here are some of my highlight projects that I am working on:
+
+- **Pokémon Traveler** - A unique take on the Pokémon franchise.
+- **REI MEDIA Studio** - A software company focusing on game design and development.
+- **2Form Networks** - A network that connects passionate artists, groups and companies.
+- **DotM Framework** - A simple framework used to make dungeon crawler type of games.
+
+## 📈 Stats
+
+![Kurylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurylodev&show_icons=true)
+
+## 📪 Contact
+
+To get in touch with me, feel free to message me on Discord or Twitter. 
+- Discord: Kurylo#0625
+- Twitter: @KuryloKuro
+- E-Mail: contact@2form-studio.com

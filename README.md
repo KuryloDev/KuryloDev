@@ -15,3 +15,5 @@
         };
     }
 ```
+
+![Banner](https://cdn.discordapp.com/attachments/292769908369129472/935549714286411786/yoisaki_banner.gif)

@@ -6,7 +6,7 @@
         string Name = "KuryloKuro";
         int UID = 256789973749989376;
         
-        string FavouriteAPL = "C#";
+        string ProgrammingLanguage = "C#";
         string FavouriteFood = "Mapo Tofu";
         string FavouriteSport = "Badminton";
 

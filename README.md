@@ -6,7 +6,11 @@
         string Name = "KuryloKuro";
         int UID = 256789973749989376;
         
+        string FavouriteAPL = "C#";
         string FavouriteFood = "Mapo Tofu";
+        string FavouriteSport = "Badminton";
+
+        Country Nationality = Country.Vietnam;
         CharacterClass Class = CharacterClass.Angel; 
         PersonalityType Personality = PersonalityType.Shy;
 

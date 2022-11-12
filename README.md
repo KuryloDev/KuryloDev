@@ -3,8 +3,7 @@
 
 ```csharp
 public class Kurylo : Angel {
-    
-    List<Alias> Aliases = new(){
+    List<Alias> _aliases = new(){
         new Alias("Kino"),
         new Alias("Fenrir"),
         new Alias("Adachi"),
@@ -16,15 +15,16 @@ public class Kurylo : Angel {
         {"DE", Language.German}, {"NL", Language.Dutch}, {"CN", Language.Chinese} 
     };
     
-    Food FavFood = Food.MapoTofu;
-    Sport FavSport = Sport.Badminton;
+    Food favFood = Food.MapoTofu;
+    Sport favSport = Sport.Badminton;
 
-    Affiliaton Class = Affiliation.Angel; 
-    Country Nationality = Country.Vietnam;
-    PersonalityType Personality = Type.INFJ;
+    Country nationality = Country.Vietnam;
+    PersonalityType personality = Type.INFJ;
+    Affiliaton affiliation = Affiliation.Angel; 
    
     public Kurylo getInfo() => this;
-    public Gender getGender() => Gender.Female;
     public bool inRelationship() => true; 
+    public Gender getGender() => Gender.Female;
+
 }
 ```

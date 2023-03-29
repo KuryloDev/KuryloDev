@@ -23,7 +23,7 @@ public class Kurylo : Angel {
     Affiliaton affiliation = Affiliation.Angel; 
    
     public Kurylo getInfo() => this;
-    public bool inRelationship() => true; 
+    public bool inRelationship() => false; 
     public Gender getGender() => Gender.Female;
 
 }

@@ -4,6 +4,7 @@
 ```csharp
 [CreateAssetMenu(menuName = "Kurylo/Create new")]
 public class KuryloDev : ScriptableObject {
+
     List<Alias> _aliases = new(){
         new Alias("Kino"),
         new Alias("Kana"),
@@ -11,10 +12,12 @@ public class KuryloDev : ScriptableObject {
         new Alias("Kurylo"), 
 
     Dictionary<string, Language> _languageList = new() {
-        {"VN" , Language.Vietnamese}, {"JP", Language.Japanese}, {"EN", Language.English}, 
-        {"DE", Language.German}, {"NL", Language.Dutch}, {"CN", Language.Chinese}, {"JSL", Language.SignLanguage}  
+        {"VN" , Language.Vietnamese}, {"JP", Language.Japanese}, {"DE", Language.German},
+        {"NL", Language.Dutch}, {"EN", Language.English}, {"CN", Language.Chinese}, 
+        {"JSL", Language.SignLanguage}  
     };
-    
+
+    [TextArea]
     Food favFood = Food.MapoTofu;
     Sport favSport = Sport.Badminton;
 

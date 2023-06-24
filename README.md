@@ -12,12 +12,10 @@ public class KuryloDev : ScriptableObject {
         new Alias("Kurylo"), 
 
     Dictionary<string, Language> _languageList = new() {
-        {"VN" , Language.Vietnamese}, {"JP", Language.Japanese}, {"DE", Language.German},
-        {"NL", Language.Dutch}, {"EN", Language.English}, {"CN", Language.Chinese}, 
-        {"JSL", Language.SignLanguage}  
+        {"VN" , Vietnamese}, {"JP", Japanese}, {"DE", German},
+        {"NL", Dutch}, {"EN", English}, {"CN", Chinese}, {"JSL", SignLanguage}  
     };
 
-    [TextArea]
     Food favFood = Food.MapoTofu;
     Sport favSport = Sport.Badminton;
 

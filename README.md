@@ -3,4 +3,4 @@
 
 ## 🌌 Kino Kanadechi
 
-![Wave](wave.svg)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer)

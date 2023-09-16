@@ -1,8 +1,6 @@
 
 ![Banner](banner.png)
 
-# 🌌 Kino "Kurylo" Kanadechi
-
 🌸 **20**, Vietnamese Full-Stack Developer & Translator
 
 🌺 Driving forward a new generation of entertainment media

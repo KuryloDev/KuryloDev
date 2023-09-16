@@ -1,7 +1,7 @@
 
 ![Banner](banner.png)
 
-## 🌌 Kino "Kurylo" Kanadechi
+# 🌌 Kino "Kurylo" Kanadechi
 
 🌸 **20**, Vietnamese Full-Stack Developer & Translator
 
@@ -9,14 +9,14 @@
 
 🍧 Head of Talent Management & Development @ 2Form Networks
 
-### 💙 Skills
+## 💙 Skills
 - Languages: 🇻🇳 🇨🇳 🇯🇵 🇰🇷 🇺🇲 🇳🇱 🇩🇪 
 - Front-End: `Astro.js` `Angular`
 - Back-End: `ASP.NET` `Express.js`
 
-### 💙 Contact
+## 💙 Contact
 - Development: info@reimedia-studio.com
 - Agency: info@2form-networks.com
 - Inquiry: info@kurylo.dev
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=76819C&height=100&section=footer)

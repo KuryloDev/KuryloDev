@@ -3,7 +3,7 @@
 
 # 🌌 Kino "Kurylo" Kanadechi
 
-🌸 **21**, Vietnamese Full-Stack Developer & Translator
+🌸 **22**, Vietnamese Full-Stack Developer & Translator
 
 🌺 Driving forward a new generation of entertainment media
 
